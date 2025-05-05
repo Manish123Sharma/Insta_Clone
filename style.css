@@ -253,3 +253,8 @@ footer>p {
     color: #C7C7C7;
     margin-top: 20px;
 }
+
+.post_header>div{
+    display: flex;
+    flex-direction: row;
+}
